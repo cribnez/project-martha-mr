@@ -1,9 +1,7 @@
+# 🥽 Project MARTHA: Capacitación en Mantenimiento con Realidad Mixta
 <p align="center">
   <img src="assets/logo_martha.png" alt="Logo Proyecto MARTHA" width="400">
 </p>
-
-# 🥽 Project MARTHA: Capacitación en Mantenimiento con Realidad Mixta
-
 Este repositorio contiene el código fuente y los activos del **Proyecto MARTHA**, una plataforma de capacitación en mantenimiento preventivo de equipos médicos desarrollada con **Realidad Mixta (MR)** para visores **Meta Quest**.
 
 Este proyecto fue desarrollado en la Universidad Politécnica de Chiapas.
