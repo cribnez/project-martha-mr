@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo_martha.png" alt="Logo Proyecto MARTHA" width="400">
+</p>
+
 # 🥽 Project MARTHA: Capacitación en Mantenimiento con Realidad Mixta
 
 Este repositorio contiene el código fuente y los activos del **Proyecto MARTHA**, una plataforma de capacitación en mantenimiento preventivo de equipos médicos desarrollada con **Realidad Mixta (MR)** para visores **Meta Quest**.
@@ -56,10 +60,22 @@ Para ejecutar este proyecto, necesitas tener instalado Unity Hub y la versión d
 ## 📸 Demostración / Capturas
 
 <p align="center">
-  <img src="assets/demo_menu.png" alt="Menú principal de la aplicación" width="600">
+  <img src="assets/menu_principal.jpg" alt="Menú principal de la aplicación" width="700">
+  <br><em>Menú principal de MARTHA (VR y AR)</em>
 </p>
 <p align="center">
-  <img src="assets/demo_guia.png" alt="Guía de mantenimiento interactiva" width="600">
+  <img src="assets/entorno_vr.jpg" alt="Entorno de sala de mantenimiento" width="700">
+  <br><em>Entorno virtual de la sala de mantenimiento (VR)</em>
 </p>
-
-
+<p align="center">
+  <img src="assets/sala_paciente_vr.jpg" alt="Guía de mantenimiento preventivo" width="700">
+  <br><em>Guía multimedia en la sala de pacientes (VR)</em>
+</p>
+<p align="center">
+  <img src="assets/herramientas_vr.jpg" alt="Inspección de equipo con herramientas" width="700">
+  <br><em>Inspección detallada de equipo y herramientas (VR)</em>
+</p>
+<p align="center">
+  <img src="assets/manual_ar.jpg" alt="Manual en Realidad Aumentada" width="700">
+  <br><em>Visualización de manual técnico (Modo AR)</em>
+</p>
