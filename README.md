@@ -77,3 +77,12 @@ Para ejecutar este proyecto, necesitas tener instalado Unity Hub y la versión d
   <img src="assets/manual_ar.png" alt="Manual en Realidad Aumentada" width="700">
   <br><em>Visualización de manual técnico (Modo AR)</em>
 </p>
+
+## 🎥 Video de Demostración
+
+<p align="center">
+  <a href="https://youtube.com/shorts/zW5h8TRrK5I?feature=share" target="_blank">
+    <img src="https://img.youtube.com/vi/zW5h8TRrK5I/maxresdefault.jpg" alt="Video demostrativo Proyecto MARTHA" width="700">
+    <br><em>Haz clic para ver el video demostrativo del Proyecto MARTHA</em>
+  </a>
+</p>
