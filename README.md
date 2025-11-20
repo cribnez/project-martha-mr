@@ -82,7 +82,7 @@ Para ejecutar este proyecto, necesitas tener instalado Unity Hub y la versión d
 
 <p align="center">
   <a href="https://www.youtube.com/shorts/Uh2hsXW3ZHo" target="_blank">
-    <img src="https://img.youtube.com/vi/zW5h8TRrK5I/maxresdefault.jpg" alt="Video demostrativo Proyecto MARTHA" width="700">
+    <img src="https://img.youtube.com/vi/Uh2hsXW3ZHo/maxresdefault.jpg" alt="Video demostrativo Proyecto MARTHA" width="700">
     <br><em>Haz clic para ver el video demostrativo del Proyecto MARTHA</em>
   </a>
 </p>
