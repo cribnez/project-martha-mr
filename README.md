@@ -89,7 +89,8 @@ Para ejecutar este proyecto, necesitas tener instalado Unity Hub y la versión d
 
 ## 📄 Publicación Académica
 
-El Proyecto MARTHA ha sido documentado en un artículo académico publicado en la revista *Tecnología Digital*:
+El Proyecto MARTHA ha sido documentado en un artículo académico publicado en la revista *Tecnología Digital*.  
+Además, el documento completo se encuentra disponible en la carpeta `docs` de este repositorio:
 
 <p align="center">
   <a href="docs/articulo_martha.pdf" target="_blank">
