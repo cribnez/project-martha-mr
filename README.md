@@ -92,8 +92,8 @@ Para ejecutar este proyecto, necesitas tener instalado Unity Hub y la versión d
 El Proyecto MARTHA ha sido documentado en un artículo académico publicado en la revista *Tecnología Digital*:
 
 <p align="center">
-  <a href="https://www.revistatecnologiadigital.com/pdf/15_03_007_plataforma_capacitaci%C3%B3n_mantenimiento_preventivo_equipos_medicos_realidad_mixta_Meta_Quest.pdf" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/100/000000/pdf.png" alt="Artículo en PDF" width="80">
+  <a href="docs/articulo_martha.pdf" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Artículo en PDF" width="120">
     <br><em>Plataforma de capacitación en mantenimiento preventivo de equipos médicos con Realidad Mixta (Meta Quest)</em>
   </a>
 </p>
