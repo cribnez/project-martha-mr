@@ -93,7 +93,7 @@ El Proyecto MARTHA ha sido documentado en un artículo académico publicado en l
 Además, el documento completo se encuentra disponible en la carpeta `docs` de este repositorio:
 
 <p align="center">
-  <a href="docs/martha_realidad_mixta.pdf.pdf" target="_blank">
+  <a href="docs/martha_realidad_mixta.pdf" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Artículo en PDF" width="120">
     <br><em>Plataforma de capacitación en mantenimiento preventivo de equipos médicos con Realidad Mixta (Meta Quest)</em>
   </a>
